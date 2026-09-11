@@ -19,7 +19,7 @@ function colorama() {
 
         document.getElementById("infotext").style.color = "#ffffff";
         document.getElementById("infotext").style.fontWeight = "bold"
-        document.getElementById("infotext").innerHTML = "YOU FOOL. YOU CLICKED THE BUTTON. WE HAVE FOOLED YOU!!!! THE BUTTON WAS NOT IN FACT FRIENDLY, BUT <em>EEEVIIILLLLLLL!!!!!!!1!1!</em>MUAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAAAAAAAAAAAAAAAAAAAAAA<br><br><a href='https://genshin-impact.fandom.com/wiki/Odette'>Source</a>";
+        document.getElementById("infotext").innerHTML = "YOU FOOL. YOU CLICKED THE BUTTON. WE HAVE FOOLED YOU!!!! THE BUTTON WAS NOT IN FACT FRIENDLY, BUT <em>EEEVIIILLLLLLL!!!!!!!1!1!</em>MUAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAAAAAAAAAAAAAAAAAAAAAA";
 
         document.getElementById("bigbitch").innerHTML = 'EVIL BUTTON';
         bigbitch.style.color = "darkred";
@@ -51,7 +51,7 @@ function colorama() {
 
         document.getElementById("infotext").style.color = "blanchedalmond";
         document.getElementById("infotext").style.fontWeight = "normal";
-        document.getElementById("infotext").innerHTML ='Odette Spessiva is a playable <em class="element">Cryo</em> character in Genshin Impact. <br> She is the Prima Ballerina of the Korolevskiy Troupe, known for her frosty elegance on stage. <br> She is also a member of the Fatui and is currently the favored candidate to inherit the Harbinger seat of her mentor, Signora.<br>';
+        document.getElementById("infotext").innerHTML ='Odette Spessiva is a playable <em class="element">Cryo</em> character in Genshin Impact. <br> She is the Prima Ballerina of the Korolevskiy Troupe, known for her frosty elegance on stage. <br> She is also a member of the Fatui and is currently the favored candidate to inherit the Harbinger seat of her mentor, Signora.<br><br><a href="https://genshin-impact.fandom.com/wiki/Odette">Source</a>';
      
         document.getElementById("bigbitch").innerHTML = 'friendly button';
         bigbitch.style.color = "black";
