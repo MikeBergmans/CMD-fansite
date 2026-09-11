@@ -27,7 +27,7 @@ body{
 div{
   background:linear-gradient(#707070, #303030);
   border: 2px solid #d4ff60;
-  margin: 1%;
+  margin: 5px;
   padding: 15px;
   padding-bottom: 1%;
   border-radius: 10px;
@@ -36,12 +36,13 @@ div{
   text-align: left;
 }
 h1{
-  margin: 1vw;
+  margin: 2vw;
 }
 #title {
   grid-column: 2 / 4;
   grid-row: 1 / 2;
   text-align: center;
+  margin-top: 1vh;
   font-size: 2vw;
   color: #99ffff;
 }
@@ -49,9 +50,9 @@ h1{
   grid-column: 2 / 3;
   grid-row: 2 / 3;
   text-align: left; 
+  overflow: hidden;
 }
 #bannerpic {
-  background-image: url('images/image.png');
   grid-column: 3 / 4;
   grid-row: 2 / 3;
   text-align: center;
@@ -62,7 +63,7 @@ h1{
   grid-row: 3 / 4;
   text-align: left; 
 }
-#revisions {
+#javashit {
   grid-column: 3 / 4;
   grid-row: 3 / 4;
   text-align: left; 
@@ -84,4 +85,10 @@ a:hover{
 .bottomlink:hover{
   background-color: bisque;
   font-size:105%;
+}
+#bigbitch{
+  height: 15vh;
+  width: 32vw;
+  text-align: center;
+  font-size: 5vw;
 }
