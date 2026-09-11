@@ -19,7 +19,7 @@ function colorama() {
 
         document.getElementById("infotext").style.color = "#ffffff";
         document.getElementById("infotext").style.fontWeight = "bold"
-        document.getElementById("infotext").innerHTML = "YOU FOOL. YOU CLICKED THE BUTTON. WE HAVE FOOLED YOU!!!! THE BUTTON WAS NOT IN FACT FRIENDLY, BUT <em>EEEVIIILLLLLLL!!!!!!!1!1!</em>MUAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAAAAAAAAAAAAAAAAAAAAAA";
+        document.getElementById("infotext").innerHTML = "YOU FOOL. YOU CLICKED THE BUTTON. WE HAVE FOOLED YOU!!!! THE BUTTON WAS NOT IN FACT FRIENDLY, BUT <em>EEEVIIILLLLLLL!!!!!!!1!1!</em>MUAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAHAHAHAHAHAHAHAHAHAHA<br>HAAAAAAAAAAAAAAAAAAAAAA<br><br><a href='https://genshin-impact.fandom.com/wiki/Odette'>Source</a>";
 
         document.getElementById("bigbitch").innerHTML = 'EVIL BUTTON';
         bigbitch.style.color = "darkred";
